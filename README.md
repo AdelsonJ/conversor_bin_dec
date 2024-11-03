@@ -12,7 +12,7 @@ Este projeto implementa um programa em Python que lê números binários de um a
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
   ```bash
-  git clone https://github.com/AdelsonJ/seu-repositorio.git
+  git clone https://github.com/AdelsonJ/conversor_bin_dec.git
   ```
 2. Certifique-se de ter o arquivo entrada.txt no diretório raiz do projeto com o seguinte formato:
   ```bash
